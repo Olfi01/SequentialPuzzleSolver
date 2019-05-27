@@ -6,7 +6,7 @@
     <title>SequentialPuzzleSolver</title>
     <authors>Olfi01</authors>
     <owners>Olfi01</owners>
-    <license type="file">license\license.txt</license>
+    <license type="expression">WTFPL</license>
     <projectUrl>http://www.github.com/Olfi01/</projectUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <description>A generic library to solve puzzles using user-defined algorithms</description>
