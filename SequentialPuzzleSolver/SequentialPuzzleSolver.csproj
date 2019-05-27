@@ -49,5 +49,8 @@
     <Compile Include="PuzzleSolver.cs" />
     <Compile Include="SolvingAlgorithm.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="license\license.txt" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
